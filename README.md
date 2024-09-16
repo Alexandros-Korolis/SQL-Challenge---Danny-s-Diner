@@ -86,6 +86,6 @@ You can read full challenge here : https://8weeksqlchallenge.com/case-study-1/
 
 <strong>Bonus : Rank All The Things</strong>
 
-![bonus_2](images/onus_2.PNG) <br>
+![bonus_2](images/bonus_2.PNG) <br>
 ![bonus_outcome_2](images/bonus_outcome_2.PNG) <br>
 
