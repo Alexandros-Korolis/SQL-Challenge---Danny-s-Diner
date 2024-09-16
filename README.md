@@ -20,5 +20,62 @@ Danny has shared with you 3 key datasets for this case study:<br>
 <h1>Solution</h1>
 <strong>1.What is the total amount each customer spent at the restaurant?</strong>
 
-![solution_1](solution_1.PNG)
-![outcome_1](outcome_1.PNG)
+![solution_1](solution_1.PNG) <br>
+![outcome_1](outcome_1.PNG) <br>
+
+<strong>2.How many days has each customer visited the restaurant?</strong>
+
+![solution_2](solution_2.PNG) <br>
+![outcome_2](outcome_2.PNG) <br>
+
+
+<strong>3.What was the first item from the menu purchased by each customer?</strong>
+
+![solution_3](solution_3.PNG) <br>
+![outcome_3](outcome_3.PNG) <br>
+
+<strong>4.What is the most purchased item on the menu and how many times was it purchased by all customers?</strong>
+
+![solution_4](solution_4.PNG) <br>
+![outcome_4](outcome_4.PNG) <br>
+
+<strong>5.Which item was the most popular for each customer?</strong>
+
+![solution_5](solution_5.PNG) <br>
+![outcome_5](outcome_5.PNG) <br>
+
+<strong>6.Which item was purchased first by the customer after they became a member?</strong>
+
+![solution_6](solution_6.PNG) <br>
+![outcome_6](outcome_6.PNG) <br>
+
+<strong>7.Which item was purchased just before the customer became a member ?</strong>
+
+![solution_7](solution_7.PNG) <br>
+![outcome_7](outcome_7.PNG) <br>
+
+<strong>8. What is the total items and amount spent for each member before they became a member?</strong>
+
+![solution_8](solution_8.PNG) <br>
+![outcome_8](outcome_8.PNG) <br>
+
+<strong>9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?</strong>
+
+![solution_9](solution_9.PNG) <br>
+![outcome_9](outcome_9.PNG) <br>
+
+<strong>10. In the first week after a customer joins the program (including their join date), they earn 2x points on all items, not just sushi ,how many points do customer A and B have at the end of January?</strong>
+
+![solution_10](solution_10.PNG) <br>
+![outcome_10](outcome_10.PNG) <br>
+
+<strong>Bonus : Join All The Things</strong>
+
+![bonus_1](bonus_1.PNG) <br>
+![bonus_outcome_1](bonus_outcome_1.PNG) <br>
+
+<strong>Bonus : Rank All The Things</strong>
+
+![bonus_2](bonus_2.PNG) <br>
+![bonus_outcome_2](bonus_outcome_2.PNG) <br>
+
