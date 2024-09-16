@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
-- [About the challenge/Dataset](#about-the-challenge/dataset)
+- [About the challenge](#about-the-challenge)
 - [Solution](#solution)
 
 <h1>Introduction</h1>
@@ -24,7 +24,7 @@ Danny has shared with you 3 key datasets for this case study:<br>
 -menu <br>
 -members <br>
 
-<h1>About the challenge/Dataset</h1>
+<h1>About the challenge</h1>
 You can read full challenge here : https://8weeksqlchallenge.com/case-study-1/
 
 <h1>Solution</h1>
